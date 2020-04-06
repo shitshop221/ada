@@ -1,0 +1,14 @@
+{
+  "World": {
+    "Skoop.wld": false,
+    "im_a_do.wld": false,
+    "peepoo.wld": false,
+    "longki.wld": false,
+    "ben's_dick.wld": false,
+    "carsons_dick.wld": false,
+    "the_dnd_wait_map.wld": true
+  },
+  "Player": {
+    "used.plr": false
+  }
+}
